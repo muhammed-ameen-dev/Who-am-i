@@ -43,7 +43,7 @@
 
 ## 🌐 Portfolio
 
-[Your Portfolio Link Here]
+https://ameen-personal-portfolio.vercel.app/
 
 ---
 
